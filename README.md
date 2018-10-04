@@ -1,9 +1,9 @@
-## Instalcion de la aplicacion
+## Instalción de la aplicación
 Tras ser descargada la aplicación, en la raíz de la misma debemos de ejecutar el comando
 ```
 npm install
 ```
-## Arrancar la aplicacion
+## Arrancar la aplicación
 
 Para arranca el servidor node debemos ejecutar
 ```
